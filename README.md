@@ -9,4 +9,5 @@ It also writes a default configuration into config.ini, along with a custom mess
 
 
 Thank you if you use it, enjoy! :)
+
 2024
